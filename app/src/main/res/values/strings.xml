@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">fragment</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_night_fragment">Modo noche activo</string>
+    <string name="hello_day_fragment">Modo dia activo</string>
+</resources>
