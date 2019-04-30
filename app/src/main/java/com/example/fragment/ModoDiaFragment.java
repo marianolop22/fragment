@@ -13,7 +13,6 @@ import android.view.ViewGroup;
  */
 public class ModoDiaFragment extends Fragment {
 
-
     public ModoDiaFragment() {
         // Required empty public constructor
     }
